@@ -1,0 +1,20 @@
+.logoContainer > span,
+.logoDesktopContainer > span {
+  position: initial !important;
+  overflow: initial !important;
+}
+
+.logoContainer > span img,
+.logoDesktopContainer > span img {
+  position: relative !important;
+  left: -16px !important;
+  vertical-align: middle !important;
+  border-style: none !important;
+  width: 139px !important;
+  height: auto !important;
+}
+
+.logoDesktopContainer > span img {
+  left: initial !important;
+  width: 185px !important;
+}

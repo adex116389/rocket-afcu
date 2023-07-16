@@ -1,0 +1,22 @@
+.ncua > span,
+.ehl > span {
+  display: initial !important;
+  position: initial !important;
+  overflow: initial !important;
+}
+
+.ncua > span img,
+.ehl > span img {
+  display: initial !important;
+  min-height: initial !important;
+  min-width: initial !important;
+  position: relative !important;
+  width: 99px !important;
+  vertical-align: middle !important;
+  border-style: none !important;
+  height: auto !important;
+}
+
+.ehl > span img {
+  width: 55px !important;
+}
